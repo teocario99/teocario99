@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m Matteo (@teocario99)
+- 👋 Hi there, I’m Matteo (@teocario99). I am an SAP ABAP Backend Developer!
 - 😄 Pronouns: he/him
 - 📫 How to reach me:
 <a href="https://www.linkedin.com/in/matteo-carioti/">
